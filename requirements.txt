@@ -1,0 +1,8 @@
+tensorflow==1.14.0
+torch==1.1.0
+torchvision==0.2.2
+numpy==1.16.0
+opencv-python==4.1.0.25
+tensorboardX==1.7
+PyYAML==3.12
+tqdm==4.19.9
